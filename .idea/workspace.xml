@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="94c78ad5-71f5-4e2c-ab2e-6bf03de9f5db" name="Default Changelist" comment="" />
+    <list default="true" id="94c78ad5-71f5-4e2c-ab2e-6bf03de9f5db" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,16 +30,53 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/channels/user_socket.ex">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="15" column="3" lean-forward="true" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
+            <state relative-caret-position="252">
+              <caret line="12" column="52" lean-forward="true" selection-start-line="12" selection-start-column="52" selection-end-line="12" selection-end-column="52" />
             </state>
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="294">
+              <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package-lock.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="231">
+              <caret line="4465" column="104" selection-start-line="4465" selection-start-column="101" selection-end-line="4465" selection-end-column="104" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mix.exs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-126" />
+          </provider>
+        </entry>
+      </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>growl</find>
+      <find>gro</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -47,6 +86,7 @@
         <option value="$PROJECT_DIR$/web/templates/layout/app.html.eex" />
         <option value="$PROJECT_DIR$/web/templates/page/index.html.eex" />
         <option value="$PROJECT_DIR$/web/channels/user_socket.ex" />
+        <option value="$PROJECT_DIR$/package.json" />
       </list>
     </option>
   </component>
@@ -56,6 +96,7 @@
     <option name="width" value="1635" />
     <option name="height" value="946" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -73,43 +114,6 @@
               <item name="seabattle" type="b2602c69:ProjectViewProjectNode" />
               <item name="seabattle" type="462c0819:PsiDirectoryNode" />
               <item name="config" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="seabattle" type="b2602c69:ProjectViewProjectNode" />
-              <item name="seabattle" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="seabattle" type="b2602c69:ProjectViewProjectNode" />
-              <item name="seabattle" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="channels" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="seabattle" type="b2602c69:ProjectViewProjectNode" />
-              <item name="seabattle" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="seabattle" type="b2602c69:ProjectViewProjectNode" />
-              <item name="seabattle" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="layout" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="seabattle" type="b2602c69:ProjectViewProjectNode" />
-              <item name="seabattle" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="page" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="seabattle" type="b2602c69:ProjectViewProjectNode" />
-              <item name="seabattle" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -135,6 +139,7 @@
       </list>
     </option>
   </component>
+  <component name="SpringUtil" SPRING_PRE_LOADER_OPTION="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -145,12 +150,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1545915431761</updated>
-      <workItem from="1545915433122" duration="352000" />
+      <workItem from="1545915433122" duration="1083000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="352000" />
+    <option name="totallyTimeSpent" value="1083000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="171" y="56" width="1635" height="946" extended-state="0" />
@@ -211,8 +216,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/web/channels/user_socket.ex">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="15" column="3" lean-forward="true" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
+        <state relative-caret-position="252">
+          <caret line="12" column="52" lean-forward="true" selection-start-line="12" selection-start-column="52" selection-end-line="12" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="4465" column="104" selection-start-line="4465" selection-start-column="101" selection-end-line="4465" selection-end-column="104" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mix.exs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-126" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
         </state>
       </provider>
     </entry>
