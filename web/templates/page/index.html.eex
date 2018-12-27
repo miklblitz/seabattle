@@ -1,0 +1,4 @@
+<div class="jumbotron">
+  <h2><%= gettext "Sea battle %{name}", name: "Side 1" %></h2>
+
+</div>
